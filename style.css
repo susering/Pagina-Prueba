@@ -1,0 +1,39 @@
+body{
+    background-color: beige;
+  
+}
+
+
+.cuadro{
+    display: block;
+    box-sizing: border-box;
+    background: linear-gradient(forestgreen, chocolate);
+    background-color: forestgreen;
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 620px;
+    margin-top: 80px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+    
+}
+img{
+    margin-left: 20px;
+}
+h2{
+    margin-top: 10px;
+    text-align: center;
+    font-family: "Vampiro One", system-ui;
+    font-weight: 400;
+    font-style: normal; 
+}
+li{
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+#t1{
+    text-align: center;
+    
+}
