@@ -1,0 +1,46 @@
+body{
+background-image: url(fondo.jpg);
+  background-position: center center;
+  background-size: 100% 150%;
+  background-repeat: no-repeat;
+  
+}
+
+
+.cuadro{
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(forestgreen, chocolate);
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 620px;
+    margin-top: 80px;
+    /*Acá usé la sombra N°10*/
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+}
+img{
+    margin-left: 20px;
+}
+h2{
+    margin-top: 10px;
+    text-align: center;
+    font-family: "Vampiro One", system-ui;
+    font-weight: 400;
+    font-style: normal; 
+}
+li{
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+#t1{
+    text-align: center;
+    
+}
+#t2{
+    font-size: large;
+}
